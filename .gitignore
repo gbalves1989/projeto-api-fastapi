@@ -1,0 +1,5 @@
+# libs directory
+venv
+node_models
+.env
+__pycache__
